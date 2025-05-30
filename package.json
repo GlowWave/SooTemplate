@@ -1,0 +1,7 @@
+{
+    "name": "react-native-soo-template",
+    "version": "0.0.1",
+    "description": "version 0.79.x, react-navigation, Redux, styled-components",
+    "author": "sooyeon <glowwave.co@gmail.com>",
+    "license": "MIT"
+  }
